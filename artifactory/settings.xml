@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
     <server>
-      <username></username>
-      <password></password>
+      <username>deployer</username>
+      <password>AP4ob3x6WVJs8ZMByNJL3nh4hLA</password>
       <id>central</id>
     </server>
     <server>
-      <username></username>
-      <password></password>
+      <username>deployer</username>
+      <password>AP4ob3x6WVJs8ZMByNJL3nh4hLA</password>
       <id>snapshots</id>
     </server>
   </servers>
