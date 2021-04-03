@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>deployer</username>
-      <password>AP4ob3x6WVJs8ZMByNJL3nh4hLA</password>
+      <password>AP5rjoH5Movni51xdTUNFoWB8dB</password>
       <id>central</id>
     </server>
     <server>
       <username>deployer</username>
-      <password>AP4ob3x6WVJs8ZMByNJL3nh4hLA</password>
+      <password>AP5rjoH5Movni51xdTUNFoWB8dB</password>
       <id>snapshots</id>
     </server>
   </servers>

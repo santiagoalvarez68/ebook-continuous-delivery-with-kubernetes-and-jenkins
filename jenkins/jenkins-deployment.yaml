@@ -5,6 +5,9 @@ metadata:
   labels:
     app: jenkins
 spec:
+  selector:
+    matchLabels:
+      app: jenkins
   replicas: 1
   template:
     metadata:
@@ -14,7 +17,7 @@ spec:
     spec:
       containers:
       - name: jenkins
-        image: jorgeacetozi/jenkins:2.60.3
+        image: jenkins/jenkins:lts-jdk11
         ports:
         - name: http-port
           containerPort: 8080
